@@ -1,3 +1,5 @@
+
+
 # Cell Tracking Web App
 
 A web application for detecting and tracking individual cells in 3D + time
@@ -10,7 +12,8 @@ microscopy videos. Upload a volume and get:
   migration speed),
 - CSV export in a submission-schema format, and an annotated MP4 export,
 - a grounded Q&A chat and an auto-generated plain-language report, both
-  backed by an LLM that reads the actual stored results rather than
+https://github.com/user-attachments/assets/3cb437b9-fda8-4a10-a9a9-1446496164e4
+
   guessing (see "LLM features" below).
 
 Backend: Python + FastAPI. Frontend: plain HTML/CSS/vanilla JS (D3.js and
